@@ -2,4 +2,4 @@
 A compilation of popular algorithms self-written in C language.
 
 # Contents
-* [Binary Search](../binary_search.c)
+* [Binary Search](../harpreetvirkk/C-Algorithms-Compilation/binary_search.c)
