@@ -1,5 +1,5 @@
 # C-Algorithms-Compilation
-A compilation of popular algorithms self-written in C language.
+This repository contains compilation of some algorithms I've written in C language.
 
 # Contents
 * [Binary Search](binary_search.c)
